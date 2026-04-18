@@ -2150,7 +2150,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_5KPW_P12.70mm_Horizontal"
+		(property "Footprint" "Capacitor_THT:C_Radial_D6.3mm_H11.0mm_P2.50mm"
 			(at 213.36 87.9348 0)
 			(hide yes)
 			(show_name no)
@@ -2310,7 +2310,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_5KPW_P12.70mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 176.022 118.11 90)
 			(hide yes)
 			(show_name no)
@@ -2425,7 +2425,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "0758bc43-0a17-4b3f-a193-95f427a5fd6b")
+			(uuid "0758bc43-0a17-4b3f-a193-95f427a5fd6c")
 		)
 		(instances
 			(project "Vezba Petnica"
@@ -2468,7 +2468,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Radial_D6.3mm_H11.0mm_P2.50mm"
 			(at 132.08 65.0748 0)
 			(hide yes)
 			(show_name no)
@@ -2502,10 +2502,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "da0565aa-f617-4039-9760-8ab8f90c0378")
+			(uuid "da0565aa-f617-4039-9760-8ab8f90c0379")
 		)
 		(pin "2"
-			(uuid "73f04368-6c2d-486f-8a72-71bc967431c2")
+			(uuid "73f04368-6c2d-486f-8a72-71bc967431c3")
 		)
 		(instances
 			(project "Vezba Petnica"
@@ -2550,7 +2550,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_5KPW_P12.70mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 189.992 118.11 90)
 			(hide yes)
 			(show_name no)
@@ -2584,10 +2584,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "c3288dec-ed7e-4572-9e85-9dd8c330e338")
+			(uuid "c3288dec-ed7e-4572-9e85-9dd8c330e339")
 		)
 		(pin "2"
-			(uuid "42a6bd91-9ae0-4e1d-89cf-dc5d1c339100")
+			(uuid "42a6bd91-9ae0-4e1d-89cf-dc5d1c339101")
 		)
 		(instances
 			(project "Vezba Petnica"
@@ -2630,7 +2630,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_5KPW_P12.70mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 132.08 97.028 90)
 			(hide yes)
 			(show_name no)
@@ -2664,10 +2664,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "c3288dec-ed7e-4572-9e85-9dd8c330e338")
+			(uuid "c3288dec-ed7e-4572-9e85-9dd8c330e33a")
 		)
 		(pin "2"
-			(uuid "42a6bd91-9ae0-4e1d-89cf-dc5d1c339100")
+			(uuid "42a6bd91-9ae0-4e1d-89cf-dc5d1c339102")
 		)
 		(instances
 			(project "Vezba Petnica"
@@ -2745,7 +2745,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "0758bc43-0a17-4b3f-a193-95f427a5fd6b")
+			(uuid "0758bc43-0a17-4b3f-a193-95f427a5fd6d")
 		)
 		(instances
 			(project "Vezba Petnica"
@@ -2790,7 +2790,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_5KPW_P12.70mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 84.582 118.11 90)
 			(hide yes)
 			(show_name no)
@@ -2905,7 +2905,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "0758bc43-0a17-4b3f-a193-95f427a5fd6b")
+			(uuid "0758bc43-0a17-4b3f-a193-95f427a5fd6e")
 		)
 		(instances
 			(project "Vezba Petnica"
@@ -2948,7 +2948,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_5KPW_P12.70mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 160.02 109.728 90)
 			(hide yes)
 			(show_name no)
@@ -3028,7 +3028,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_5KPW_P12.70mm_Horizontal"
+		(property "Footprint" "Capacitor_THT:C_Radial_D6.3mm_H11.0mm_P2.50mm"
 			(at 119.38 106.9848 0)
 			(hide yes)
 			(show_name no)
@@ -3062,10 +3062,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "da0565aa-f617-4039-9760-8ab8f90c0378")
+			(uuid "da0565aa-f617-4039-9760-8ab8f90c037a")
 		)
 		(pin "2"
-			(uuid "73f04368-6c2d-486f-8a72-71bc967431c2")
+			(uuid "73f04368-6c2d-486f-8a72-71bc967431c4")
 		)
 		(instances
 			(project "Vezba Petnica"
@@ -3111,7 +3111,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Potentiometer_THT:Potentiometer_ACP_CA14-H5_Horizontal"
 			(at 217.17 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -3307,7 +3307,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_5KPW_P12.70mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 124.968 118.11 90)
 			(hide yes)
 			(show_name no)
@@ -3341,10 +3341,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "c3288dec-ed7e-4572-9e85-9dd8c330e338")
+			(uuid "c3288dec-ed7e-4572-9e85-9dd8c330e33b")
 		)
 		(pin "2"
-			(uuid "42a6bd91-9ae0-4e1d-89cf-dc5d1c339100")
+			(uuid "42a6bd91-9ae0-4e1d-89cf-dc5d1c339103")
 		)
 		(instances
 			(project "Vezba Petnica"
@@ -3387,7 +3387,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_5KPW_P12.70mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 200.66 66.802 90)
 			(hide yes)
 			(show_name no)
@@ -3421,10 +3421,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "c3288dec-ed7e-4572-9e85-9dd8c330e338")
+			(uuid "c3288dec-ed7e-4572-9e85-9dd8c330e33c")
 		)
 		(pin "2"
-			(uuid "42a6bd91-9ae0-4e1d-89cf-dc5d1c339100")
+			(uuid "42a6bd91-9ae0-4e1d-89cf-dc5d1c339104")
 		)
 		(instances
 			(project "Vezba Petnica"
@@ -3467,7 +3467,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_5KPW_P12.70mm_Horizontal"
+		(property "Footprint" "Capacitor_THT:C_Radial_D6.3mm_H11.0mm_P2.50mm"
 			(at 181.61 75.2348 0)
 			(hide yes)
 			(show_name no)
@@ -3501,10 +3501,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "da0565aa-f617-4039-9760-8ab8f90c0378")
+			(uuid "da0565aa-f617-4039-9760-8ab8f90c037b")
 		)
 		(pin "2"
-			(uuid "73f04368-6c2d-486f-8a72-71bc967431c2")
+			(uuid "73f04368-6c2d-486f-8a72-71bc967431c5")
 		)
 		(instances
 			(project "Vezba Petnica"
@@ -3546,8 +3546,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 172.72 106.9848 0)
+		(property "Footprint" "Capacitor_THT:C_Radial_D6.3mm_H11.0mm_P2.50mm"
+			(at 167.64 135.636 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3580,10 +3580,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "da0565aa-f617-4039-9760-8ab8f90c0378")
+			(uuid "da0565aa-f617-4039-9760-8ab8f90c037c")
 		)
 		(pin "2"
-			(uuid "73f04368-6c2d-486f-8a72-71bc967431c2")
+			(uuid "73f04368-6c2d-486f-8a72-71bc967431c6")
 		)
 		(instances
 			(project "Vezba Petnica"
@@ -3707,7 +3707,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Potentiometer_THT:Potentiometer_ACP_CA14-H5_Horizontal"
 			(at 86.36 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -3822,7 +3822,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_5KPW_P12.70mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 181.61 92.202 90)
 			(hide yes)
 			(show_name no)
@@ -3856,10 +3856,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "c3288dec-ed7e-4572-9e85-9dd8c330e338")
+			(uuid "c3288dec-ed7e-4572-9e85-9dd8c330e33d")
 		)
 		(pin "2"
-			(uuid "42a6bd91-9ae0-4e1d-89cf-dc5d1c339100")
+			(uuid "42a6bd91-9ae0-4e1d-89cf-dc5d1c339105")
 		)
 		(instances
 			(project "Vezba Petnica"
@@ -3902,7 +3902,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_5KPW_P12.70mm_Horizontal"
+		(property "Footprint" "Capacitor_THT:C_Radial_D6.3mm_H11.0mm_P2.50mm"
 			(at 135.89 80.3148 0)
 			(hide yes)
 			(show_name no)
@@ -3936,10 +3936,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "da0565aa-f617-4039-9760-8ab8f90c0378")
+			(uuid "da0565aa-f617-4039-9760-8ab8f90c037d")
 		)
 		(pin "2"
-			(uuid "73f04368-6c2d-486f-8a72-71bc967431c2")
+			(uuid "73f04368-6c2d-486f-8a72-71bc967431c7")
 		)
 		(instances
 			(project "Vezba Petnica"
@@ -4083,7 +4083,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_5KPW_P12.70mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 209.55 103.378 90)
 			(hide yes)
 			(show_name no)
@@ -4117,10 +4117,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "c3288dec-ed7e-4572-9e85-9dd8c330e338")
+			(uuid "c3288dec-ed7e-4572-9e85-9dd8c330e33e")
 		)
 		(pin "2"
-			(uuid "42a6bd91-9ae0-4e1d-89cf-dc5d1c339100")
+			(uuid "42a6bd91-9ae0-4e1d-89cf-dc5d1c339106")
 		)
 		(instances
 			(project "Vezba Petnica"
@@ -4265,7 +4265,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_5KPW_P12.70mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 153.67 58.928 90)
 			(hide yes)
 			(show_name no)
@@ -4299,10 +4299,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "c3288dec-ed7e-4572-9e85-9dd8c330e338")
+			(uuid "c3288dec-ed7e-4572-9e85-9dd8c330e33f")
 		)
 		(pin "2"
-			(uuid "42a6bd91-9ae0-4e1d-89cf-dc5d1c339100")
+			(uuid "42a6bd91-9ae0-4e1d-89cf-dc5d1c339107")
 		)
 		(instances
 			(project "Vezba Petnica"
@@ -4456,7 +4456,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_5KPW_P12.70mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 146.558 118.11 90)
 			(hide yes)
 			(show_name no)
@@ -4490,10 +4490,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "c3288dec-ed7e-4572-9e85-9dd8c330e338")
+			(uuid "c3288dec-ed7e-4572-9e85-9dd8c330e340")
 		)
 		(pin "2"
-			(uuid "42a6bd91-9ae0-4e1d-89cf-dc5d1c339100")
+			(uuid "42a6bd91-9ae0-4e1d-89cf-dc5d1c339108")
 		)
 		(instances
 			(project "Vezba Petnica"
@@ -4538,7 +4538,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_5KPW_P12.70mm_Horizontal"
+		(property "Footprint" "Capacitor_THT:C_Radial_D6.3mm_H11.0mm_P2.50mm"
 			(at 216.2048 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -4572,10 +4572,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "da0565aa-f617-4039-9760-8ab8f90c0378")
+			(uuid "da0565aa-f617-4039-9760-8ab8f90c037e")
 		)
 		(pin "2"
-			(uuid "73f04368-6c2d-486f-8a72-71bc967431c2")
+			(uuid "73f04368-6c2d-486f-8a72-71bc967431c8")
 		)
 		(instances
 			(project "Vezba Petnica"
@@ -4653,7 +4653,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "0758bc43-0a17-4b3f-a193-95f427a5fd6b")
+			(uuid "0758bc43-0a17-4b3f-a193-95f427a5fd6f")
 		)
 		(instances
 			(project "Vezba Petnica"
@@ -4696,7 +4696,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_5KPW_P12.70mm_Horizontal"
+		(property "Footprint" "Capacitor_THT:C_Radial_D6.3mm_H11.0mm_P2.50mm"
 			(at 185.42 85.3948 0)
 			(hide yes)
 			(show_name no)
@@ -4730,10 +4730,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "da0565aa-f617-4039-9760-8ab8f90c0378")
+			(uuid "da0565aa-f617-4039-9760-8ab8f90c037f")
 		)
 		(pin "2"
-			(uuid "73f04368-6c2d-486f-8a72-71bc967431c2")
+			(uuid "73f04368-6c2d-486f-8a72-71bc967431c9")
 		)
 		(instances
 			(project "Vezba Petnica"
@@ -4778,7 +4778,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_5KPW_P12.70mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 218.948 80.01 90)
 			(hide yes)
 			(show_name no)
@@ -4812,10 +4812,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "c3288dec-ed7e-4572-9e85-9dd8c330e338")
+			(uuid "c3288dec-ed7e-4572-9e85-9dd8c330e341")
 		)
 		(pin "2"
-			(uuid "42a6bd91-9ae0-4e1d-89cf-dc5d1c339100")
+			(uuid "42a6bd91-9ae0-4e1d-89cf-dc5d1c339109")
 		)
 		(instances
 			(project "Vezba Petnica"
@@ -4968,7 +4968,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_5KPW_P12.70mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 102.87 109.728 90)
 			(hide yes)
 			(show_name no)
